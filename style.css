@@ -1,0 +1,45 @@
+body{
+    background-color: grey;
+
+}
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: start;
+    text-decoration: none;
+    font-size: 50px;
+}
+nav a{
+    text-decoration: none;
+}
+.about{
+    color: rgb(43, 16, 222);
+    margin-right:500px;
+}
+.Contact{
+    color: aqua;
+}
+.insta{
+    color: rgb(234, 24, 227);
+}
+.rupesh{
+    border-radius: 60%;
+    margin
+     ;
+}
+.p{
+    text-align: center;
+    font size: 30px;
+    colour: ;
+}
+
+.image{
+    background-color: black;
+    height: 300px;
+    width: 200px;
+    font size: 20px;
+    float: right;
+    margin-right: 120px;
+
+
+}
